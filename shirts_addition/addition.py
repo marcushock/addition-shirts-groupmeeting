@@ -38,5 +38,5 @@ def add(param1, param2):
     >>> add(a, b)
     6.3
     """
-
+    # This is another comment
     return param1 + param2
